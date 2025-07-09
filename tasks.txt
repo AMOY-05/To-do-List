@@ -1,0 +1,3 @@
+I want to calculate|Today|0
+I want to wash||0
+I want to do my assignment|today|0

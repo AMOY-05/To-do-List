@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1748860967 source:c:\users\oyediran abdulmalik\desktop\my projects\c&c++ projects\simple calculator\todo list\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<fstream>
+	<algorithm>
+
+1751728833 source:c:\users\oyediran abdulmalik\desktop\my projects\c&c++ projects\todo list project\todo list\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<fstream>
+	<algorithm>
+
